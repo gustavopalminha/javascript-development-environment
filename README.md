@@ -2,6 +2,10 @@
 
 This is a generic JavaScript development environment that I build from scratch in ["Building a JavaScript Development Environment" on Pluralsight](https://app.pluralsight.com/library/courses/javascript-development-environment/table-of-contents). This isn't tied to any specific JS framework.
 
+## Pre Start notes
+
+Check [personal-notes](personal-notes.md) with additional instructions about how to reproduce this code from ground up. 
+
 ## Get Started
 
 1. **Install [Node 6 or newer](https://nodejs.org)**. Need to run multiple versions of Node? Use [nvm](https://github.com/creationix/nvm) or [nvm-windows](https://github.com/coreybutler/nvm-windows)
