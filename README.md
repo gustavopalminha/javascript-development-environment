@@ -4,7 +4,7 @@ This is a generic JavaScript development environment that I build from scratch i
 
 ## Pre Start notes
 
-Check [personal-notes](personal-notes.md) with additional instructions about how to reproduce this code from ground up. 
+Check [course-notes](course-notes.md) with additional instructions about how to reproduce this code from ground up. 
 
 ## Get Started
 
