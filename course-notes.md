@@ -1119,3 +1119,16 @@ Now we can deploy to surge `npm run deploy`.
 And this finished our course on JS dev environment... :)
 
 ***THE END!***
+
+## Extending / using this toolkit
+
+Edit the `/src/*.*` files:
+* index.html for templating html
+* index.js for main app code...
+* *.test.js for tests bound to the npm script test
+* index.css for css data obviously :)
+* `/src/api/*.*` contains a rest mock endpoints to simulate custom / random data for UI developemnt
+
+Ideas for extending this toolkit:
+* Add a new npm script to copy static files for a self host site
+* Add scss support
